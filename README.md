@@ -9,8 +9,7 @@
 ## Description 
 <a name="description"></a>
 This project is a Daily Work Planner. It was created to allow a user to use a Daily Planner to schedule out their day by the hour. In this application the User will be shown:
-1. Current Week, Month, Day, Hour and Minute.
-    a. ex: Sunday - Jan.15,2021 at 9:13 AM.
+1. Current Week, Month, Day, Hour and Minute. <ins>ex: Sunday - Jan.15,2021 at 9:13 AM</ins>.
 2. The agenda will have hourly time slots for 6am through 9pm. 
 3. The agenda will be color sorted by time to reflect: 
     a. A light gray color for hours that have passed. 
