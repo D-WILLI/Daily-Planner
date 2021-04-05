@@ -23,13 +23,13 @@ This project is a Daily Work Planner. It was created to allow a user to use a Da
 
 ## How To Use  
 <a name="use"></a>
-How To add an item to the agenda. 
+<ins>How To add an item to the agenda: </ins> 
 1. Click on the empty box next to the time slot 
 2. Type in your agenda item for the hour.
 3. Click the blue (add agenda button) at the end of text box. 
 Your agenda item will be saved, even if you close or refresh the webpage. 
 
-How to delete an item in the agenda.
+<ins>How To delete an item in the agenda: </ins> 
 1. Click on the text in the box next to the time slot 
 2. Type in your new agenda item to replace the current agenda item or leave it blank.
 3. Click the blue (add agenda button) at the end of text box. 
